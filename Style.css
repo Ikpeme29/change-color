@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.background button {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid black;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+.form button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10%;
+    border: 2px solid black;
+}
+#red {
+    background-color: red;
+}
+#orange {
+    background-color: orange;
+}
+#cyan {
+    background-color: cyan;
+}
+#yellow {
+    background-color: yellow;
+}
+#pink {
+    background-color: pink;
+}
+#green {
+    background-color: lime;
+}
+#indigo {
+    background-color: indigo;
+}
+#brown {
+    background-color: brown;
+}
+#grey {
+    background-color: grey;
+}
